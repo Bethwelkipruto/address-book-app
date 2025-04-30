@@ -1,4 +1,4 @@
-# Address Book & To-Do List Web App
+Address Book & To-Do List Web App
 
 #Description
 A simple and user-friendly web application to manage your personal contacts and daily tasks.  
