@@ -1,6 +1,6 @@
 # Address Book & To-Do List Web App
 
-## Description
+#Description
 A simple and user-friendly web application to manage your personal contacts and daily tasks.  
 You can add, view, and manage contacts, and also maintain a list of to-dos.
 
